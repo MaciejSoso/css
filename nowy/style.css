@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+
+p{
+    height: 100px;
+    font-weight: 100px;
+}
+
+#paragraf1{
+    background-color: blue;
+}
+
+#paragraf2{
+    background-color: aqua;
+}
+
+#paragraf3{
+    background-color: yellow;
+}
+
+#paragraf4{
+    opacity: 0.5;
+}
+
+#paragraf5{
+    opacity: 0.7;
+}
+
