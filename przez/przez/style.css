@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(209, 189, 164)
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 5px;
+}
+
+#div1{
+    opacity: 1 
+}
+
+#div2{
+    opacity: 0.7
+}
+
+#div3{
+    opacity: 0.5
+}
+
+#div4{
+    opacity: 0.2
+}
